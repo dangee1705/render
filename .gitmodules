@@ -1,0 +1,3 @@
+[submodule "lib/png"]
+	path = lib/png
+	url = https://github.com/dangee1705/png
